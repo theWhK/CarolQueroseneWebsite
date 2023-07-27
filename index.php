@@ -10,11 +10,11 @@
 <body>
     <div class="container">
         <div class="row">
-            <div class="col-12 pt-5 text-center">
+            <div class="col-12 pt-3 text-center">
                 <img class="logotipo" src="assets/logotipo.png" alt="Carol">
             </div>
 
-            <div class="col-12 pt-5 text-center">
+            <div class="col-12 pt-3 text-center">
                 <p>Olá! Para você curtir o Carol 2 ao máximo, siga os passos abaixo para ter acesso ao servidor do karaokê.</p>
             </div>
 
