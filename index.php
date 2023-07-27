@@ -32,7 +32,7 @@
                 </div>
             </div>
 
-            <div class="col-12 py-3">
+            <div class="col-12 pt-3">
                 <div class="card">
                     <div class="card-body">
                         <h5 class="card-title">2. Entre no painel</h5>
