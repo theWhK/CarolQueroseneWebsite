@@ -10,7 +10,7 @@
 <body>
     <div class="container">
         <div class="row">
-            <div class="col-12 text-center">
+            <div class="col-12 pt-5 text-center">
                 <img class="logotipo" src="assets/logotipo.png" alt="Carol">
             </div>
         </div>
