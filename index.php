@@ -18,7 +18,7 @@
                 <p>Olá! Para você curtir o Carol 2 ao máximo, siga os passos abaixo para ter acesso ao servidor do karaokê.</p>
             </div>
 
-            <div class="col-12 pt-5">
+            <div class="col-12 pt-3">
                 <div class="card">
                     <div class="card-body">
                         <h5 class="card-title">1. Conecte no Wi-Fi do salão</h5>
@@ -32,7 +32,7 @@
                 </div>
             </div>
 
-            <div class="col-12 pt-5">
+            <div class="col-12 py-3">
                 <div class="card">
                     <div class="card-body">
                         <h5 class="card-title">2. Entre no painel</h5>
