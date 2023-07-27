@@ -43,6 +43,17 @@
                     </div>
                 </div>
             </div>
+
+            <div class="col-12 py-3">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">3. Divirta-se!</h5>
+                        <p class="card-text">
+                            Se precisar de algo, procure a Ana Milani, Bitu Juliani ou Will.
+                        </p>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
