@@ -13,6 +13,36 @@
             <div class="col-12 pt-5 text-center">
                 <img class="logotipo" src="assets/logotipo.png" alt="Carol">
             </div>
+
+            <div class="col-12 pt-5 text-center">
+                <p>Olá! Para você curtir o Carol 2 ao máximo, siga os passos abaixo para ter acesso ao servidor do karaokê.</p>
+            </div>
+
+            <div class="col-12 pt-5">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">1. Conecte no Wi-Fi do salão</h5>
+                        <p class="card-text">
+                            Garanta que você esteja conectado na rede do salão para que possa acessar o servidor do karaokê.
+                            <br>
+                            A rede é a "XXXXXXX" e a senha é "XXXXXXXX", sem as aspas. Há várias placas com o QR code de conexão espalhados por aí também; procure uma!
+                        </p>
+                        <a href="#" class="btn btn-primary">Conectar</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-12 pt-5">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">2. Entre no painel</h5>
+                        <p class="card-text">
+                            Conectado na rede do salão, você pode clicar no botão abaixo para abrir o painel do servidor do karaokê. Na primeira vez que você for colocar uma música, será necessário inserir seu nome.
+                        </p>
+                        <a href="#" class="btn btn-primary">Abrir painel</a>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
