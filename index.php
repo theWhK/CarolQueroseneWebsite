@@ -25,9 +25,10 @@
                         <p class="card-text">
                             Garanta que você esteja conectado na rede do salão para que possa acessar o servidor do karaokê.
                             <br>
-                            A rede é a "XXXXXXX" e a senha é "XXXXXXXX", sem as aspas. Há várias placas com o QR code de conexão espalhados por aí também; procure uma!
+                            Nome: <strong>Recanto Florença</strong>
+                            <br>
+                            Senha: <strong>recantoflorenca</strong>
                         </p>
-                        <a href="#" class="btn btn-primary">Conectar</a>
                     </div>
                 </div>
             </div>
@@ -39,7 +40,7 @@
                         <p class="card-text">
                             Conectado na rede do salão, você pode clicar no botão abaixo para abrir o painel do servidor do karaokê. Na primeira vez que você for colocar uma música, será necessário inserir seu nome.
                         </p>
-                        <a href="#" class="btn btn-primary">Abrir painel</a>
+                        <a href="http://192.168.68.123:5555" class="btn btn-primary">Abrir painel</a>
                     </div>
                 </div>
             </div>
