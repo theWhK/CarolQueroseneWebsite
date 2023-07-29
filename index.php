@@ -25,9 +25,9 @@
                         <p class="card-text">
                             Garanta que você esteja conectado na rede do salão para que possa acessar o servidor do karaokê.
                             <br>
-                            Nome: <strong>Recanto Florença</strong>
+                            Nome: <strong>Recanto Florenca</strong>
                             <br>
-                            Senha: <strong>recantoflorenca</strong>
+                            Senha: <strong>recanto.2021</strong>
                         </p>
                     </div>
                 </div>
@@ -40,7 +40,7 @@
                         <p class="card-text">
                             Conectado na rede do salão, você pode clicar no botão abaixo para abrir o painel do servidor do karaokê. Na primeira vez que você for colocar uma música, será necessário inserir seu nome.
                         </p>
-                        <a href="http://192.168.68.123:5555" class="btn btn-primary">Abrir painel</a>
+                        <a href="http://192.168.15.5:5555" class="btn btn-primary">Abrir painel</a>
                     </div>
                 </div>
             </div>
